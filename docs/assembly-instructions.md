@@ -92,16 +92,20 @@ Note that some of these pictures were taken at different times, so they may show
 
 ### Step 5
 
-- 💡 You're going to solder the sensor to the PCB in this step. Consider soldering a single pin while the Base PCB is upside down (as in 📷 Figure 3.3), specifically the pin *directly opposite* of the "1" designator. After that, we flip the Base PCB so that it's right-side up and solder the rest. This ensures that the PMW-3360 is guaranteed to be in the right orientation.
+- 💡 You're going to solder the sensor to the PCB in this step. Consider soldering a single pin while the Base PCB is upside down, specifically the pin *directly opposite* of the "1" designator (*see 📷 Figure 5.1*). After that, consider flipping the Base PCB so that it's right-side up and solder the rest of the pins. This ensures that the PMW-3360 is guaranteed to be in the right orientation.
 - ➡️ Solder the PMW-3360 to the Base PCB.
 - 💡 There are two small tabs of orange tape covering the sensors main holes. These protect the sensor from dust ingress during processing.
 - ➡️ Remove the two small tabs of orange tape from the PMW-3360.
 - 💡 Orient the optic correctly before insertion. It should not require a lot of force to insert fully; if it does, remove it and check the orientation before trying again.
-- ➡️ Attach the optic to the PMW-3360. 📷 *See Figure 5 for details.*
+- ➡️ Attach the optic to the PMW-3360. 📷 *See Figure 5.2 for details.*
 
-| ![](img/5.jpg) |
+| ![](img/5.1.jpg) |
 |:--:|
-| *Figure 5: Optic attached to PMW-3360* |
+| *Figure 5.1: Recommended pin to start soldering* |
+
+| ![](img/5.2.jpg) |
+|:--:|
+| *Figure 5.2: Optic attached to PMW-3360* |
 
 
 ### Step 6
@@ -134,13 +138,17 @@ Note that some of these pictures were taken at different times, so they may show
 
 - 💡 Soldering the pads of the Base PCB to the Vertical PCB provides a lot of mechanical strength to the entire assembly. You will probably use a lot more solder than you think.
 - 💡 You're looking for a smooth fillet between the pads of the PCBs, not a bulging joint.
-- 💡 Consider setting the soldering iron's temperature to around 20C higher than normal, as the pads are large and shed heat quickly. This is especially true for Pads 1, 5 and 9 (a.k.a. the pads on either end of the row, and the middle pad).
-- ➡️ Solder the Base PCB to the Vertical PCB. 📷 *See Figure 7 for details.*
+- 💡 Consider setting the soldering iron's temperature to around 20C higher than normal, as the pads are large and shed heat quickly. This is especially true for Pads 1, 5 and 9 (a.k.a. the pads on either end of the row, and the middle pad). 📷 *See Figure 7.1 for details.*
+- ➡️ Solder the Base PCB to the Vertical PCB. 📷 *See Figure 7.2 for details.*
 - ➡️ Once soldered, remove the completed PCBs from the Electronics Assembly Jig.
 
-| ![](img/7.jpg) |
+| ![](img/7.1.jpg) |
 |:--:|
-| *Figure 7: PCBs being soldered together* |
+| *Figure 7.1: Pads that shed heat quickly* |
+
+| ![](img/7.2.jpg) |
+|:--:|
+| *Figure 7.2: PCBs being soldered together* |
 
 
 ### Step 8
@@ -241,7 +249,7 @@ Note that some of these pictures were taken at different times, so they may show
 
 | ![](img/12.1.jpg) |
 |:--:|
-| *Figure 12.1: 3x Roller Bearings, 3x Roller Bearing Dowels, and the Bearing Press Jig* |
+| *Figure 12.1: Roller Bearings, Roller Bearing Dowels, and the Bearing Press Jig* |
 
 | ![](img/12.2.jpg) |
 |:--:|
@@ -258,19 +266,15 @@ Note that some of these pictures were taken at different times, so they may show
 
 ### Step 13
 
-- ➡️ Get the Top and 3x Rollers. 📷 *See Figure 13.1 for details.*
+- ➡️ Get the Top and 3x Rollers.
 - 💡 Consider using needle nose pliers to press the Rollers into the Top as that will ensure that the Roller is fully seated.
 - ➡️ Insert Rollers into the Top. 📷 *See Figure 13.2 for details.*
 - 💡 If the Rollers aren't seated all the way, there's a good chance that tracking performance will be very bad.
 - ✅ Ensure that the Rollers are pressed all the way into the Top, which may require quite a bit of force.
 
-| ![](img/13.1.jpg) |
+| ![](img/13.jpg) |
 |:--:|
-| *Figure 13.1: Top and 3x Rollers* |
-
-| ![](img/13.2.jpg) |
-|:--:|
-| *Figure 13.2: Roller inserted into Top* |
+| *Figure 13: Roller inserted into Top* |
 
 
 ### Step 14
@@ -308,6 +312,10 @@ Note that some of these pictures were taken at different times, so they may show
 
 
 ### Step 17
+
+| ![](img/17.jpg) |
+|:--:|
+| *Figure 17: Completed Classic 2!* |
 
 - 💡 Congrats, you finished building the Ploopy Classic 2!
 - 💡 It's done! Love it, use it, but don't you dare abuse it!
