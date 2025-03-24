@@ -299,6 +299,7 @@ Note that some of these pictures were taken at different times, so they may show
 - 💡 It doesn't really matter where the Friction Pads go, but we like to place them as they appear in 📷 Figure 15.
 - ➡️ Apply the Friction Pads to the Base. 📷 *See Figure 15 for details.*
 - ➡️ Insert the Ball.
+- 💡 It's possible that the Secondary Buttons rotated "inwards" (towards the PMW sensor) while you were putting the Top on. If they rotate too far inwards, they can become stuck, and won't click. To fix this, use your finger or a pair of tweezers to gently rotate the Secondary Buttons "outwards" (away from the PMW sensor) until they begin to click again.
 
 | ![](img/15.jpg) |
 |:--:|
