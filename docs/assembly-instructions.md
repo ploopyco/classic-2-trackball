@@ -157,23 +157,27 @@ Note that some of these pictures were taken at different times, so they may show
     - 💡 Top
     - 💡 Primary buttons
     - 💡 Secondary buttons
-    - 💡 Scroll wheel holder holder
 - 💡 "Support material" is more hollow than the structural plastic. You'll have to remove it before you continue with the assembly.
 - 💡 You will probably have to use a pair of pliers or tweezers to scrape off support material, as it can stick rather vigourously. Be careful not to damage the parts as you remove the support material, **especially on the Scroll Wheel Holder Holder**.
 - 💡 [Here's a video on removing support material](https://www.youtube.com/watch?v=qRsbkJuOWSM).
 - ➡️ Remove all support material from 3D-printed parts.
+- ✅ Insert of the Metal Dowels into the Top. If it fits snugly in the hole, continue. If it doesn't fit, use a pair of tweezers and scrape any loose support material out of the hole. 📷 *See Figure 8 for details.*
+
+| ![](img/8.jpg) |
+|:--:|
+| *Figure 8: Checking hole in Top with a Metal Dowel* |
 
 
 ### Step 9
 
 - ➡️ Get the PCBs, Scroll Wheel Holder, and Scroll Wheel Holder Holder. 📷 *See Figure 9.1 for details.*
-- 💡 The Scroll Wheel Holder Holder (the bigger of the two parts) is printed with some support material. Make sure that it is fully removed prior to the next step.
+- 💡 There are **two** Scroll Wheel Holder Holders in your kit. The second is a spare; keep it somewhere safe.
 - 💡 Inserting the Scroll Wheel Holder into the Scroll Wheel Holder Holder should be done very gently. These parts are quite delicate. Take your time and don't bend things unnecessarily.
 - ➡️ Insert the Scroll Wheel Holder into the Scroll Wheel Holder Holder. 📷 *See Figure 9.2 for details.*
-- 💡 Inserting the Scroll Wheel Holder Holder into the PCBs requires a bit of force. Be careful not to damage the PCBs during assembly, and use only as much force as is necessary.
-- 💡 During insertion, press the Scroll Wheel Holder Holder on its edges, NOT the middle, as you may break the part if you depress the middle too hard.
+- 💡 During insertion of the Scroll Wheel Holder Holder into the PCB, press the Scroll Wheel Holder Holder on its edges, NOT the middle, as you may break the part if you depress the middle too hard.
 - ➡️ Insert the Scroll Wheel Holder Holder into the PCBs. 📷 *See Figure 9.3 for details.*
-- 💡 Once you've finished building the Classic 2, if the wheel is spinning poorly or sticking in some places, then it's probably because the Scroll Wheel Holder Holder isn't flush against the PCB.
+- ✅ Check to see that the Scroll Wheel Holder Holder is flush against the PCB. If it isn't, try using the second Scroll Wheel Holder Holder in your kit to see if it fits better.
+- 💡 Once you've finished building the Classic 2, if the scroll wheel button is very difficult to press, then it's probably because the Scroll Wheel Holder Holder isn't flush against the PCB.
 
 | ![](img/9.1.jpg) |
 |:--:|
