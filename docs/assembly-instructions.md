@@ -137,6 +137,7 @@ Note that some of these pictures were taken at different times, so they may show
 ### Step 7
 
 - 💡 Soldering the pads of the Base PCB to the Vertical PCB provides a lot of mechanical strength to the entire assembly. You will probably use a lot more solder than you think.
+- 💡 The PCB Anchor remains in place after the Base PCB is soldered to the Vertical PCB. Although some photos may show that it is not present after the boards have been soldered together, **do not remove it at any point**.
 - 💡 You're looking for a smooth fillet between the pads of the PCBs, not a bulging joint.
 - 💡 Consider setting the soldering iron's temperature to around 20C higher than normal, as the pads are large and shed heat quickly. This is especially true for Pads 1, 5 and 9 (a.k.a. the pads on either end of the row, and the middle pad). 📷 *See Figure 7.1 for details.*
 - ➡️ Solder the Base PCB to the Vertical PCB. 📷 *See Figure 7.2 for details.*
