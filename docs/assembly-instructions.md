@@ -171,6 +171,9 @@ Note that some of these pictures were taken at different times, so they may show
 
 ### Step 9
 
+- 💡 Currently, the kits that we ship are **Revision K** (you can tell by looking at the Base, which has a "K" written on it).
+- 💡 The *Scroll Wheel Holder Holder* design significantly changed between Revision J (which is shown in the following pictures) and the current Revision K.
+- 📷 *See Video 9 for the current Scroll Wheel Holder Holder and how to insert it into the PCBs.*
 - ➡️ Get the PCBs, Scroll Wheel Holder, and Scroll Wheel Holder Holder. 📷 *See Figure 9.1 for details.*
 - 💡 There are **two** Scroll Wheel Holder Holders in your kit. The second is a spare; keep it somewhere safe.
 - 💡 Inserting the Scroll Wheel Holder into the Scroll Wheel Holder Holder should be done very gently. These parts are quite delicate. Take your time and don't bend things unnecessarily.
@@ -179,6 +182,10 @@ Note that some of these pictures were taken at different times, so they may show
 - ➡️ Insert the Scroll Wheel Holder Holder into the PCBs. 📷 *See Figure 9.3 for details.*
 - ✅ Check to see that the Scroll Wheel Holder Holder is flush against the PCB. If it isn't, try using the second Scroll Wheel Holder Holder in your kit to see if it fits better.
 - 💡 Once you've finished building the Classic 2, if the scroll wheel button is very difficult to press, then it's probably because the Scroll Wheel Holder Holder isn't flush against the PCB.
+
+| <video controls><source src="../img/9.mp4" type="video/mp4"></video> |
+|:--:|
+| *Video 9: Scroll Wheel Holder Holder, Revision K* |
 
 | ![](img/9.1.jpg) |
 |:--:|
@@ -191,7 +198,6 @@ Note that some of these pictures were taken at different times, so they may show
 | ![](img/9.3.jpg) |
 |:--:|
 | *Figure 9.3: Scroll Wheel Holder Holder inserted into the PCBs* |
-
 
 ### Step 10
 

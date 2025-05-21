@@ -1,3 +1,9 @@
+## Revision J or K?
+
+The *current* revision of the parts is Revision K. Revision J was shipped on Classic 2s prior to May of 2025.
+
+If you're replacing parts from your current Classic 2, open it and check the Base. It should have a very prominent J or K written on it.
+
 ## Only one file? Where are the parts?
 
 The STEP/STL files contain all of the plastic parts in one file. Doing it this way preserves the assembly information, showing how the parts are supposed to fit together, as well as the expected clearances between parts. It also bundles all of the parts for a given revision together, so there's no accidental mixing of parts from different revisions.
