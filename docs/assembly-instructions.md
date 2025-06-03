@@ -331,3 +331,16 @@ Note that some of these pictures were taken at different times, so they may show
 
 - 💡 Congrats, you finished building the Ploopy Classic 2!
 - 💡 It's done! Love it, use it, but don't you dare abuse it!
+
+
+## Troubleshooting
+
+### My buttons "stick".
+
+- 💡 If your buttons are stuck down and won't click, it's usually because the two front screws are too tight. 📷 *See Figure T1 for details.*
+- ➡️ Loosen the two front screws. Turn each one by a quarter-turn (or 90 degrees).
+- ✅ Check if the buttons click. If not, loosen the screws a bit more.
+
+| ![](img/t1.jpg) |
+|:--:|
+| *Figure T1: Screws that cause button seizure* |
